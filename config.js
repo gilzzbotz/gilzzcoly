@@ -1,19 +1,19 @@
 //=============『 Utama 』================== //
-global.owner = ['6282138919347'] 
+global.owner = ['6281241056195'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Helga Zexs'
-global.numberowner = '6282138919347'
+global.nameowner = 'GilzzOFC'
+global.numberowner = '6281241056195'
 global.instagram = 'https://instagram.com/helga_store20'
-global.github = 'https://github.com/Hyzerr'
-global.dana = '081398860278'
-global.pulsa = '082138919347'
-global.gopay = '081398860278'
+global.github = 'https://github.com/gilzzbotz'
+global.dana = 'https://telegra.ph/file/673f705d3745f9ee2261c.jpg'
+global.allpay = 'https://telegra.ph/file/d75ec20b511d0b04c9c86.jpg'
+global.gopay = 'https://telegra.ph/file/70cfd5e215d61267811ac.jpg'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ShiroBot-Md'
+global.namebot = 'GilzBot-Md'
 global.gc = 'https://chat.whatsapp.com/BxrDMvfLeKTHtvAWKHWZbZ'
 global.web = 'https://www.helgastoree.xyz' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
@@ -24,9 +24,9 @@ global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'Zuka Beta'
-global.watermark = wm
-global.wm2 = '                     「 Zuka Beta あ⁩ 」'
-global.wm3 = '⫹⫺ Zuka Beta'
+global.watermark = 'gilz'
+global.wm2 = '                     「 GilzzOFC あ⁩ 」'
+global.wm3 = '⫹⫺ GilzzOFC'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '2022'
-global.author = '© Helga Zexs'
+global.author = '© GilzzOFC_
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
